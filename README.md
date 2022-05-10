@@ -25,8 +25,8 @@ If you use CapFormer in your research, please cite our coming IGARSS 2022 paper.
 ```text
     @INPROCEEDINGS{CapFormer,
     title = {CapFormer: Pure transformer for remote sensing image caption},
-    booktitle = {2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS},
-    year={2021},
+    booktitle = {2022 IEEE International Geoscience and Remote Sensing Symposium IGARSS},
+    year={2022},
     volume={},
     number={},
     pages={},
