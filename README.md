@@ -23,16 +23,14 @@ The RSICD dataset can be used [here](https://github.com/201528014227051/RSICD_op
 ## Citation
 If you use CapFormer in your research, please cite our coming IGARSS 2022 paper.
 ```text
-    @INPROCEEDINGS{CapFormer,
-    title = {CapFormer: Pure transformer for remote sensing image caption},
-    booktitle = {2022 IEEE International Geoscience and Remote Sensing Symposium IGARSS},
-    year={2022},
-    volume={},
-    number={},
-    pages={},
-    doi={},
-    author = {Junjue Wang and Zihang Chen and Ailong Ma and Yanfei Zhong},
-    }
+@inproceedings{CapFormer,
+  title={Capformer: Pure Transformer for Remote Sensing Image Caption},
+  author={Wang, Junjue and Chen, Zihang and Ma, Ailong and Zhong, Yanfei},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={7996--7999},
+  year={2022},
+  organization={IEEE}
+}
 ```
 CapFormer can be used for academic purposes only,
 <font color="red"><b> and any commercial use is prohibited.</b></font>
